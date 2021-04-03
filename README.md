@@ -38,6 +38,7 @@ The purpose of the election audit was to determine the results at a county level
 *Diana DeGette: 73.8% (272,892)*
 
 **Overall Election Results**
+
 ![alt text](https://github.com/CCoelho372/Election-Analysis/blob/main/Overall%20Results.png)
 
 ## Election Audit Summary
